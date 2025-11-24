@@ -11,6 +11,37 @@
 > برای مشاهده ویدیو روی تصویر اصلی کلیک کنید.
 
 ---
+<table align="center">
+<tr>
+<td align="center">
+  <img src="images/start-1.jpg" width="400"/><br>
+  استارت اولیه
+</td>
+<td align="center">
+  <img src="images/menu-2.jpg" width="400"/><br>
+  منوی ربات
+</td>
+<td align="center">
+  <img src="images/stats-3.jpg" width="400"/><br>
+  آمار ربات
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="images/domain-list-4.jpg" width="400"/><br>
+  لیست دامنه‌ها
+</td>
+<td align="center">
+  <img src="images/records-5.jpg" width="400"/><br>
+  لیست رکوردها
+</td>
+<td align="center">
+  <img src="images/edit-record-6.jpg" width="400"/><br>
+  ویرایش رکورد
+</td>
+</tr>
+</table>
+
 
 ## 🚀 نصب سریع (Quick Install)
 
@@ -39,6 +70,7 @@ sudo ./install.sh
 * اجرای داخل screen (پیشنهادی – همیشه روشن)
 
 ---
+
 
 ## ✨ ویژگی‌ها (Features)
 
