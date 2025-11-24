@@ -45,8 +45,8 @@
 
 ## 🚀 نصب سریع (Quick Install)
 
-```bash
-sudo bash -c "$(curl -sSL https://raw.githubusercontent.com/MohmRzw/cloudflare-flaredns-bot/main/install.sh)"
+```
+bash <(curl -sSL https://raw.githubusercontent.com/MohmRzw/cloudflare-flaredns-bot/main/remote-install.sh)
 ```
 
 ### ⚡️ نصب جایگزین (Alternative Install)
