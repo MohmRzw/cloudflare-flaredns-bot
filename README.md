@@ -65,6 +65,12 @@ sudo ./install.sh
 ✔️ ساخت محیط مجازی پایتون (venv)
 ✔️ ساخت تعاملی فایل `config.py` شامل: BOT_TOKEN, ADMIN_ID, API_URL, ACCOUNTS_FILE
 ✔️ نمایش منوی گرافیکی ترمینال برای اجرای ربات:
+<div align="center" style="border:3px solid #4CAF50; padding:15px; border-radius:15px; display:inline-block; background-color:#f9f9f9;">
+  <img src="images/install.jpg" style="max-width:100%; height:auto; border-radius:10px;"/>
+  <div style="margin-top:10px; font-weight:bold; font-size:18px; color:#4CAF50;">
+    منوی اسکریپت نصب ربات و مدیریت
+  </div>
+</div>
 
 * اجرای عادی
 * اجرای داخل screen (پیشنهادی – همیشه روشن)
