@@ -4,10 +4,13 @@
 
 ---
 
-## 📹 ویدیو آموزشی
-
-به زودی…
-
+## 📹 ویدیو آموزشی 
+<a href="https://youtu.be/ag_2o6nJNB0" target="_blank">
+  <img src="https://img.youtube.com/vi/ag_2o6nJNB0/maxresdefault.jpg"
+       alt="آموزش نصب Flare DNS"
+       width="800"
+       style="border-radius: 10px;">
+</a>
 > برای مشاهده ویدیو روی تصویر اصلی کلیک کنید.
 
 ---
